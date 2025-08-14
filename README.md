@@ -2,10 +2,6 @@
 This repository contains the analysis, optimization, and budgeting framework developed  for one of the fast food chains. It serves as a comprehensive solution for financial performance analysis, business optimization, and detailed budgeting strategies using Power BI and Excel.
 
 
-# Crunchy-Corner-Financial-Performance-Optimization
-
-
-This repository contains the analysis, optimization, and budgeting framework developed for **Crunchy Corner**, one of India's largest fast food chains. It serves as a comprehensive solution for financial performance analysis, business optimization, and detailed budgeting strategies using **Power BI** and **Excel**.
 
 ## Project Overview
 Crunchy Corner is a fast food restaurant chain with over 1000 restaurants, offering the largest SKU in the industry. This project focuses on building a dashboard for financial performance analysis and optimization.
