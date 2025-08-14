@@ -419,17 +419,7 @@ This repository outlines a complete analysis framework for optimizing the financ
 To explore interactive visualizations of key financial insights, click the link below:  
 [**Click here to view the Power BI Dashboard**](https://app.powerbi.com/groups/me/reports/2582e4e0-b40e-4c56-bdc8-b5ea864afd68/f0839393194979873654?experience=power-bi)
 
----
 
-### **📄 Documents and Reports**
-For detailed reports, project documentation, and other supporting materials, click the link below:  
-[**Click here to view the Documents and Reports**](https://1drv.ms/w/c/c9e4d94d1be77dfb/EXU0dJ8wfQdOi1U3aGeEUIEBmzeRVlkMDawBiOHQgG418A?e=dyUpsC)
-
----
-
-### **📊 Dataset Access**
-To download or review the dataset used in this analysis, click the link below:  
-[**Click here to view the Dataset**](https://1drv.ms/x/c/c9e4d94d1be77dfb/EY7LJ1uy6l1LoF_NbE7oSG0BBcgVqEgMzozbIEVce3YC6A?e=dwebux)
 
 ---
 
