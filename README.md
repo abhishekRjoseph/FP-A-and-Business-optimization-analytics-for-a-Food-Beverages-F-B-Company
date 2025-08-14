@@ -425,7 +425,7 @@ To explore interactive visualizations of key financial insights, click the link 
 
 ### **📊 Visualization Screenshot **
 ### Financial Performance
-![FPA Dashboard 1](FPA%20DASHBOARD_page-0001.jpg)
+![FPA Dashboard 1](assets/FPA%20DASHBOARD_page-0001.jpg)
 ![FPA Dashboard 2](FPA%20DASHBOARD_page-0002.jpg)
 ![FPA Dashboard 3](FPA%20DASHBOARD_page-0003.jpg)
 ![FPA Dashboard 4](FPA%20DASHBOARD_page-0004.jpg)
