@@ -415,14 +415,6 @@ This repository outlines a complete analysis framework for optimizing the financ
 
 ---
 
-### **🔗 Power BI Dashboard**
-To explore interactive visualizations of key financial insights, click the link below:  
-[**Click here to view the Power BI Dashboard**](https://app.powerbi.com/groups/me/reports/2582e4e0-b40e-4c56-bdc8-b5ea864afd68/f0839393194979873654?experience=power-bi)
-
-
-
----
-
 ### **📊 Visualization Screenshot **
 ### Financial Performance
 ![FPA Dashboard 1](assets/FPA%20DASHBOARD_page-0001.jpg)
