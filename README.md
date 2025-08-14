@@ -4,7 +4,7 @@ This repository contains the analysis, optimization, and budgeting framework dev
 
 
 ## Project Overview
-Crunchy Corner is a fast food restaurant chain with over 1000 restaurants, offering the largest SKU in the industry. This project focuses on building a dashboard for financial performance analysis and optimization.
+Client is a fast food restaurant chain with over 1000 restaurants, offering the largest SKU in the industry. This project focuses on building a dashboard for financial performance analysis and optimization.
 
 ## Client Requirements
 - **Dashboard** for Financial Performance Evaluation
