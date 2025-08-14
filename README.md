@@ -443,11 +443,4 @@ To explore interactive visualizations of key financial insights, click the link 
 
 ---
 
-### **Repository Files Overview:**
-- **`/Data`**: Raw and cleaned dataset files.
-- **`/DAX_Scripts`**: DAX code used in the analysis.
-- **`/Visualizations`**: Screenshots of the Power BI reports.
-- **README.md**: Overview and instructions.
-
----
 
