@@ -425,55 +425,20 @@ To explore interactive visualizations of key financial insights, click the link 
 
 ### **📊 Visualization Screenshot **
 ### Financial Performance
-**Performance**
-![Screenshot (1)](https://github.com/user-attachments/assets/87be4602-fdad-483f-8942-1e5de6521271)
-
-**Cost Analysis**
-![Screenshot (2)](https://github.com/user-attachments/assets/636e1917-4d54-47d1-a6a2-ce58b3319f0b)
-
-**Volume & Net Revenue**
-![Screenshot (3)](https://github.com/user-attachments/assets/1bb30e61-a065-42f4-a402-ce618507d669)
-
-**Budget Analysis**
-![Screenshot (4)](https://github.com/user-attachments/assets/e43a0c8d-d28d-4f8d-b505-4dc104f8f70e)
-
-**Business Drivers**
-![Screenshot (5)](https://github.com/user-attachments/assets/20daf0b5-abaf-4211-856f-81387690291d)
-
-**Cash Drivers**
-![Screenshot (6)](https://github.com/user-attachments/assets/bbffc136-09bb-4c1f-8bba-697fe234c8eb)
-
-**What-If Variance Analysis**
-![Screenshot (7)](https://github.com/user-attachments/assets/d81216eb-ea05-4ee6-8129-6ce73fe4d6a5)
-
-### Business Optimization
-**Quadrant Analysis**
-![Screenshot (8)](https://github.com/user-attachments/assets/45e9e1af-bb7e-4978-a972-8813f4c72501)
-
-### Pareto Principal 80/20
-**Level-1**
-  ![Screenshot (9)](https://github.com/user-attachments/assets/055fd65d-9e3f-4c39-8817-23bebc05b0e4)
-
-**Level-2**
-![Screenshot (10)](https://github.com/user-attachments/assets/c8a87096-72fd-42dd-966d-2696f77211d9)
-
-**Level-3**
-![Screenshot (11)](https://github.com/user-attachments/assets/9b4c3136-32dd-4f98-bf71-5fab415665e0)
-
-**Contribution of SKU**
-![Screenshot (12)](https://github.com/user-attachments/assets/db5d7969-7623-4cd2-9684-57ca582d2d28)
-
-**PVM Analysis**
-![Screenshot (13)](https://github.com/user-attachments/assets/11c88008-0142-4ede-8607-c7629632fb76)
-
-
-
-
-
-
-
-
-
+![FPA Dashboard 1](FPA%20DASHBOARD_page-0001.jpg)
+![FPA Dashboard 2](FPA%20DASHBOARD_page-0002.jpg)
+![FPA Dashboard 3](FPA%20DASHBOARD_page-0003.jpg)
+![FPA Dashboard 4](FPA%20DASHBOARD_page-0004.jpg)
+![FPA Dashboard 5](FPA%20DASHBOARD_page-0005.jpg)
+![FPA Dashboard 6](FPA%20DASHBOARD_page-0006.jpg)
+![FPA Dashboard 7](FPA%20DASHBOARD_page-0007.jpg)
+![FPA Dashboard 8](FPA%20DASHBOARD_page-0008.jpg)
+![FPA Dashboard 9](FPA%20DASHBOARD_page-0009.jpg)
+![FPA Dashboard 10](FPA%20DASHBOARD_page-0010.jpg)
+![FPA Dashboard 11](FPA%20DASHBOARD_page-0011.jpg)
+![FPA Dashboard 12](FPA%20DASHBOARD_page-0012.jpg)
+![FPA Dashboard 13](FPA%20DASHBOARD_page-0013.jpg)
+![FPA Dashboard 14](FPA%20DASHBOARD_page-0014.jpg)
 ---
 This concludes the **Crunchy Corner** financial performance optimization project. For further details, feel free to explore the repository files or use the links above.
 
