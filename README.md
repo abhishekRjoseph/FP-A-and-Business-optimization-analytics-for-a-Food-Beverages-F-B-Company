@@ -426,19 +426,19 @@ To explore interactive visualizations of key financial insights, click the link 
 ### **📊 Visualization Screenshot **
 ### Financial Performance
 ![FPA Dashboard 1](assets/FPA%20DASHBOARD_page-0001.jpg)
-![FPA Dashboard 2](FPA%20DASHBOARD_page-0002.jpg)
-![FPA Dashboard 3](FPA%20DASHBOARD_page-0003.jpg)
-![FPA Dashboard 4](FPA%20DASHBOARD_page-0004.jpg)
-![FPA Dashboard 5](FPA%20DASHBOARD_page-0005.jpg)
-![FPA Dashboard 6](FPA%20DASHBOARD_page-0006.jpg)
-![FPA Dashboard 7](FPA%20DASHBOARD_page-0007.jpg)
-![FPA Dashboard 8](FPA%20DASHBOARD_page-0008.jpg)
-![FPA Dashboard 9](FPA%20DASHBOARD_page-0009.jpg)
-![FPA Dashboard 10](FPA%20DASHBOARD_page-0010.jpg)
-![FPA Dashboard 11](FPA%20DASHBOARD_page-0011.jpg)
-![FPA Dashboard 12](FPA%20DASHBOARD_page-0012.jpg)
-![FPA Dashboard 13](FPA%20DASHBOARD_page-0013.jpg)
-![FPA Dashboard 14](FPA%20DASHBOARD_page-0014.jpg)
+![FPA Dashboard 2](assets/FPA%20DASHBOARD_page-0002.jpg)
+![FPA Dashboard 3](assets/FPA%20DASHBOARD_page-0003.jpg)
+![FPA Dashboard 4](assets/FPA%20DASHBOARD_page-0004.jpg)
+![FPA Dashboard 5](assets/FPA%20DASHBOARD_page-0005.jpg)
+![FPA Dashboard 6](assets/FPA%20DASHBOARD_page-0006.jpg)
+![FPA Dashboard 7](assets/FPA%20DASHBOARD_page-0007.jpg)
+![FPA Dashboard 8](assets/FPA%20DASHBOARD_page-0008.jpg)
+![FPA Dashboard 9](assets/FPA%20DASHBOARD_page-0009.jpg)
+![FPA Dashboard 10](assets/FPA%20DASHBOARD_page-0010.jpg)
+![FPA Dashboard 11](assets/FPA%20DASHBOARD_page-0011.jpg)
+![FPA Dashboard 12](assets/FPA%20DASHBOARD_page-0012.jpg)
+![FPA Dashboard 13](assets/FPA%20DASHBOARD_page-0013.jpg)
+![FPA Dashboard 14](assets/FPA%20DASHBOARD_page-0014.jpg)
 ---
 
 ---
