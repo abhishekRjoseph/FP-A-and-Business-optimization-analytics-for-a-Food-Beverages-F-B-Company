@@ -440,7 +440,6 @@ To explore interactive visualizations of key financial insights, click the link 
 ![FPA Dashboard 13](FPA%20DASHBOARD_page-0013.jpg)
 ![FPA Dashboard 14](FPA%20DASHBOARD_page-0014.jpg)
 ---
-This concludes the **Crunchy Corner** financial performance optimization project. For further details, feel free to explore the repository files or use the links above.
 
 ---
 
