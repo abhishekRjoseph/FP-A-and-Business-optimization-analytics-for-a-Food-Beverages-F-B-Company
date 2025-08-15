@@ -27,7 +27,7 @@ Client is a fast food restaurant chain with over 1000 restaurants, offering the 
 
 ## 1. Project Overview
 
-Crunchy Corner serves millions of customers daily across multiple locations in India. The goal of this project is to monitor financial health, optimize business operations, and improve budgeting processes.
+Company serves millions of customers daily across multiple locations in India. The goal of this project is to monitor financial health, optimize business operations, and improve budgeting processes.
 
 - **Company Name**: Crunchy Corner
 - **Industry**: Fast Food Chain
